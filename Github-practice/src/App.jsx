@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <h1>Git Practice Notes</h1>
-      <p>This change was made on my test branch.</p>
+      <p>This change was made on my second practice branch.</p>>
     </div>
   )
 }
